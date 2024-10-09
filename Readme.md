@@ -7,6 +7,7 @@
 - ✨[About](#✨about)
 - 📃[Installing the .NET core hosting bundle](#📃validations-samples)
 - 📃[Enable IIS in Windows 11](#📃enable-iis-in-windows-11)
+  - 📃[Enable IIS in Windows 11](#📃enable-iis-in-windows-11)
 - 📃[Troubleshooting common hosting issues](#📃troubleshooting-common-hosting-issues)
 - 📚[Acknowledgments](#📚acknowledgments)
 
@@ -108,7 +109,7 @@ Make sure you check all the options except the one that appears unchecked.
 
   ![alt text](images/image-8.png)
 
-  If these modules do not appear, proceed as follows::
+  If these modules do not appear, proceed as follows:
 
   1.1- Open the windows command line with administrative privileges:
 
